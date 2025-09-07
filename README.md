@@ -25,7 +25,7 @@
 [ **Web Servers & Proxies** ]  
 `Gunicorn/Uvicorn` · `Nginx` · `HAProxy`  
 
-[ **Testing & Code Quality** ] 
+[ **Testing & Code Quality** ]  
 `Pytest` · `coverage` · `mypy` · `pre-commit` · `Ruff`  
 
 [ **CLI Tools** ]  
